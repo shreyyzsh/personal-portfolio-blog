@@ -1,4 +1,4 @@
-baseURL = https://personal-portfolio-blog-shreyyzshs-projects.vercel.app/
+baseURL = getenv("HUGO_BASE_URL")
 languageCode = 'en-us'
 title = 'eschaos'
 
