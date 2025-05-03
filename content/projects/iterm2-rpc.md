@@ -1,5 +1,5 @@
 +++
-type = 'project'
+type = 'posts'
 draft = false
 
 date = '2025-04-02'

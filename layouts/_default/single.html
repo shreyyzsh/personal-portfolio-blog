@@ -34,7 +34,7 @@
   {{- partial "toc.html" . }}
   {{- end }}
 
-  {{ if eq .Type "project" }}
+  {{ if eq .Type "posts" }}
     {{ with .Params.repo }}
     <div class="project-repo-link">
       <a href="{{ . }}" target="_blank" rel="noopener noreferrer" class="button">View on GitHub</a>

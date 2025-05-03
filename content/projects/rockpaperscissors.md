@@ -3,9 +3,11 @@ date = '2023-12-06'
 draft = false
 title = 'Rock Paper Scissors Game'
 
-type = 'project'
+type = 'posts'
 repo = "https://github.com/shreyyzsh/Rock-Paper-Scissors"
 author = "Made by Shreyy"
+
+showBreadCrumbs = true
 +++
 
 ![rock-paper-scissors](/images/rpsgame.png)

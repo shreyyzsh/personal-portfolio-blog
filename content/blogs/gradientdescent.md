@@ -1,6 +1,7 @@
 +++
 date = '2024-12-22T19:16:40+05:30'
 draft = false
+type = 'posts'
 
 title = '''A Beginner's Guide to Gradient Descent - Understanding the Core of Machine Learning Optimization'''
 
