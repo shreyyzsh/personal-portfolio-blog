@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/nws-claude/</loc>
+    <loc>/projects/nws-claude/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/</loc>
+    <loc>/projects/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/iterm2-rpc/</loc>
+    <loc>/projects/iterm2-rpc/</loc>
     <lastmod>2025-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blogs/gradientdescent/</loc>
+    <loc>/blogs/gradientdescent/</loc>
     <lastmod>2024-12-22T19:16:40+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/blogs/</loc>
+    <loc>/blogs/</loc>
     <lastmod>2024-12-22T19:16:40+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/rockpaperscissors/</loc>
+    <loc>/projects/rockpaperscissors/</loc>
     <lastmod>2023-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
