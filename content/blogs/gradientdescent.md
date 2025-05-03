@@ -1,4 +1,5 @@
 +++
+type = "posts"
 date = '2024-12-22T19:16:40+05:30'
 draft = false
 
