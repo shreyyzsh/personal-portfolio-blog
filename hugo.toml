@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = getenv("HUGO_BASE_URL")
 languageCode = 'en-us'
 title = 'eschaos'
 
