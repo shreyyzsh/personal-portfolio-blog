@@ -17,6 +17,10 @@ imageWidth = 120
 imageHeight = 120
 
 [[params.profileMode.buttons]]
+name = "Projects"
+url = "/projects"
+
+[[params.profileMode.buttons]]
 name = "Blogs"
 url = "/blogs"
 
