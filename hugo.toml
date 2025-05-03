@@ -1,0 +1,55 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'eschaos'
+
+theme = "PaperMod"
+defaultTheme = "light"
+
+
+# ----main profile----
+
+[params.profileMode]
+enabled = true
+title = "Heylo!"
+subtitle = "I'm shreyy, a third-year cse student and an aspiring ml engineer."
+imageUrl = "images/norman.jpg"
+imageWidth = 120
+imageHeight = 120
+
+[[params.profileMode.buttons]]
+name = "Blogs"
+url = "/blogs"
+
+[[params.socialIcons]]
+name = "LinkedIn"
+url = "https://linkedin.com/in/shreyyzsh"
+
+[[params.socialIcons]]
+name = "GitHub"
+url = "https://github.com/shreyyzsh"
+
+[[params.socialIcons]]
+name = "X"
+url = "https://x.com/shreyy0fvcks"
+
+
+# ----blog post settings----
+
+showReadingTime = true
+showShareButtons = true
+showPostNavLinks = true
+showBreadCrumbs = true
+ShowWordCount = true
+ShowRssButtonInSectionTermList = true
+UseHugoToc = false
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = true
+showtoc = false
+tocopen = false
+
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
