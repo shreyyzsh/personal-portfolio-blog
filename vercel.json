@@ -2,7 +2,10 @@
     "builds": [
       {
         "src": "hugo.toml",
-        "use": "@vercel/hugo"
+        "use": "@vercel/static-build",
+        "config": {
+          "distDir": "public"
+        }
       }
     ],
     "routes": [
