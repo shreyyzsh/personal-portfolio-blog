@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on eschaos</title>
-    <link>/projects/</link>
+    <link>//localhost:1313/projects/</link>
     <description>Recent content in Projects on eschaos</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NWS-Claude Protocol Bridge</title>
-      <link>/projects/nws-claude/</link>
+      <link>//localhost:1313/projects/nws-claude/</link>
       <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>/projects/nws-claude/</guid>
+      <guid>//localhost:1313/projects/nws-claude/</guid>
       <description>&lt;p&gt;This project establishes a &lt;strong&gt;Model Context Protocol&lt;/strong&gt; that bridges the &lt;a href=&#34;https://claude.ai&#34;&gt;Claude Desktop App&lt;/a&gt; with the &lt;strong&gt;US National Weather Service (NWS) API&lt;/strong&gt;, enabling contextual, real-time weather information to be accessed directly within the Claude environment.&lt;/p&gt;</description>
     </item>
     <item>
       <title>iterm2 - Discord Rich Presence</title>
-      <link>/projects/iterm2-rpc/</link>
+      <link>//localhost:1313/projects/iterm2-rpc/</link>
       <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>/projects/iterm2-rpc/</guid>
+      <guid>//localhost:1313/projects/iterm2-rpc/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Terminal-Rich-Presence&lt;/strong&gt; is a simple Python script that integrates your terminal activity with Discord Rich Presence.
 It updates your Discord status when &lt;code&gt;iTerm2&lt;/code&gt; is running, displaying details like the shell in use and the duration of the session.&lt;/p&gt;
 &lt;h3 id=&#34;requirements&#34;&gt;Requirements&lt;/h3&gt;
@@ -29,14 +29,14 @@ It updates your Discord status when &lt;code&gt;iTerm2&lt;/code&gt; is running, 
 &lt;li&gt;&lt;code&gt;psutil&lt;/code&gt; (&lt;code&gt;pip install psutil&lt;/code&gt;)&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;pypresence&lt;/code&gt; (&lt;code&gt;pip install pypresence&lt;/code&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&#34;discord-rpc&#34; loading=&#34;lazy&#34; src=&#34;/images/iterm2.png&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;discord-rpc&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/images/iterm2.png&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rock Paper Scissors Game</title>
-      <link>/projects/rockpaperscissors/</link>
+      <link>//localhost:1313/projects/rockpaperscissors/</link>
       <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>/projects/rockpaperscissors/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;rock-paper-scissors&#34; loading=&#34;lazy&#34; src=&#34;/images/rpsgame.png&#34;&gt;&lt;/p&gt;</description>
+      <guid>//localhost:1313/projects/rockpaperscissors/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;rock-paper-scissors&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/images/rpsgame.png&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
