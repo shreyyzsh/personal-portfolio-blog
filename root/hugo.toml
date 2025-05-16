@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "/root"
 languageCode = 'en-us'
 title = 'eschaos'
 
