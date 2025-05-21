@@ -1,6 +1,6 @@
 +++
 date = '2023-12-06'
-draft = false
+draft = true
 title = 'Rock Paper Scissors Game'
 
 type = 'posts'
